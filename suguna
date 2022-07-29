@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube clone</title>
+    <link rel=" stylesheet" href="styleY.css">
+</head>
+
+<body>
+
+    <nav class="navbar">
+        
+        <div class="toggle-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <img src="you.png" class="logo" alt="">
+        <div class="search-box">
+            <input type="text" class="search-bar" placeholder="search">`
+            <button class="search-btn"><img src="search1.png" width="100%" height="100%" /></button>
+        </div>
+        </div>
+    </nav>
+    
+    <div class="filters">
+
+    </div>
+    <script src="Youtube.js"></script>
+
+</body>
+
+</html>
